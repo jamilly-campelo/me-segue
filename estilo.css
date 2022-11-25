@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    margin: 2%;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    width: 40%;
+}
+
+* {
+    font-family: 'Work Sans', sans-serif;
+}
